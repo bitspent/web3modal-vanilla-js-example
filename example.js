@@ -1,5 +1,3 @@
-"use strict";
-
 alert('web3');
 
 /**

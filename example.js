@@ -1,5 +1,7 @@
 "use strict";
 
+alert('web3');
+
 /**
  * Example JavaScript code that interacts with the page and Web3 wallets
  */
